@@ -1,0 +1,17 @@
+{
+  "name": "img-scale",
+  "version": "1.0.0",
+  "description": "a cli tool for scale images base on factor",
+  "main": "lib.js",
+  "bin": "bin.js",
+  "dependencies": {
+    "jimp": "^0.16.0",
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gulewei",
+  "license": "ISC"
+}
